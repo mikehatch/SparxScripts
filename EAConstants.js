@@ -6,7 +6,7 @@
 	 * Purpose: Provides constant values for the Enterprise Architect automation API. 
 	 * Date: 2010-05-31
 	 * Modified: 2014-04-23
-	 * By: Mike Hatch - mhatch@microsoft.com
+	 * By: Mike Hatch - mike.hatch@outlook.com
 	 */
 
 	// :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
